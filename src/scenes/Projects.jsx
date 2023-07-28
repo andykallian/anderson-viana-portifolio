@@ -70,7 +70,7 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Projetos construidos utilizando Javascript e React.js, com diversidade de abordagem tais como o uso de Typescript, Tailwind, StyledComponents, ContextApi e etç...
+          Projetos construídos utilizando Javascript e React.js, com diversidade de abordagens tais como: uso de Typescript, Tailwind, StyledComponents, ContextApi e etc...
         </p>
       </motion.div>
 
