@@ -57,7 +57,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Desenvolvedor Front-End | Javascript | Typescript | React |;
+            Desenvolvedor Front-End | Javascript | Typescript | React | Tailwind | StyledComponent |
           </p>
         </motion.div>
 
@@ -87,7 +87,7 @@ const Landing = ({ setSelectedPage }) => {
             href="#contato"
           >
             <div className="bg-deep-blue hover:text-red transition duration-500 w-full h-full flex items-center justify-center px-10 font-playfair">
-              Envie sua mensagem.
+              Enviar mensagem.
             </div>
           </AnchorLink>
         </motion.div>
