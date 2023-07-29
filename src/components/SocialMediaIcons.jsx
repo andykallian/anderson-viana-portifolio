@@ -5,7 +5,7 @@ const SocialMediaIcons = () => {
     <div className="flex justify-center md:justify-start my-10 gap-7">
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.linkedin.com/vianna-anderson"
+        href="https://www.linkedin.com/in/vianna-anderson"
         target="_blank"
         rel="noreferrer"
       >
@@ -21,7 +21,7 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.facebook.com/ViannaAnd"
+        href="https://www.facebook.com/ViannaAndy"
         target="_blank"
         rel="noreferrer"
       >
